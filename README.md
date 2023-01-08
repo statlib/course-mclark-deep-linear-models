@@ -1,2 +1,1 @@
-# learn-scaffold
-Scaffold for learn-* repo
+https://m-clark.github.io/posts/2022-09-deep-linear-models/
